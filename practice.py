@@ -58,3 +58,15 @@
 # per =topal1/5 
 # print =("total" ,total)
 # print = ("percentage: per")
+
+
+
+
+nepali = int(input("enter nepali:"))
+english = int(input("enter english:"))
+mathmatic = int(input("enter mathematic:"))
+webtechnology = int(input("enter webtechnologi:"))
+cprogrmamming = int(input("enter cprogramming"))
+Total = nepali+english+mathmatic+webtechnology+cprogrmamming
+print = ("total" ,total)
+print = ("percentage: per")
