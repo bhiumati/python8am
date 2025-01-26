@@ -70,3 +70,31 @@ cprogrmamming = int(input("enter cprogramming"))
 Total = nepali+english+mathmatic+webtechnology+cprogrmamming
 print = ("total" ,total)
 print = ("percentage: per")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
